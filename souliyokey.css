@@ -1,0 +1,28 @@
+/* Enter Your Custom CSS Here */
+
+@font-face {
+  font-family: 'Souliyo';
+  font-style: normal;
+  font-weight: 200;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/souliyo/v1/Souliyo-Regular.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/souliyo/v1/Souliyo-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/souliyo/v1/Souliyo-Regular.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/souliyo/v1/Souliyo-Regular.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/souliyo/v1/Souliyo-Regular.ttf) format('truetype');
+}
+
+body {
+	font-family:Souliyo !important;
+
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	font-family:Souliyo !important;
+}
